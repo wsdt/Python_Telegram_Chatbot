@@ -1,4 +1,4 @@
-# python_app
+# Python Chatbot
 
 Start main.py to use the full functional chatbot in your Telegram app. 
 
