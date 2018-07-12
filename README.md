@@ -1,6 +1,6 @@
 # Python Chatbot
 
-Start main.py to use the full functional chatbot in your Telegram app. If you search a Home Assistant for your Raspberry Pi or similar, I recommend you to look at this repository: https://github.com/wsdt/Python_HomeAssistant
+Start main.py to use the full functional chatbot in your Telegram app. If you search for a Home Assistant (e.g. with [offline] voice recognition) for your Raspberry Pi or similar, I recommend you to look at this repository: https://github.com/wsdt/Python_HomeAssistant
 
 ## Confidential.py
 You will need the CONFIDENTIAL.py file to use this bot. For that I provided a CONFIDENTIAL_Template.py-File
