@@ -5,10 +5,10 @@ FROM python
 
 RUN pip install chatterbot && python -m pip install python-telegram-bot && \
 	pip install InstagramApi && \ 
-	git clone https://github.com/wsdt/Python_Chatbot.git
+	git clone https://github.com/wsdt/Python_Telegram_Chatbot.git
 	
 # Copy your secrets into the image	
-COPY CONFIDENTIAL.py Python_Chatbot/
+COPY CONFIDENTIAL.py Python_Telegram_Chatbot/
 	
 # Collect newest version and then start bot
-CMD cd Python_Chatbot&&git pull&&python main.py
+CMD cd Python_Telegram_Chatbot&&git pull&&python main.py
