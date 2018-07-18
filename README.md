@@ -1,4 +1,4 @@
-# Python Chatbot
+# Python Chatbot [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 Start main.py to use the full functional chatbot in your Telegram app. If you search for a Home Assistant (e.g. with [offline] voice recognition) for your Raspberry Pi or similar, I recommend you to look at this repository: https://github.com/wsdt/Python_HomeAssistant
 
